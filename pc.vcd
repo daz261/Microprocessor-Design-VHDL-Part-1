@@ -1,0 +1,77 @@
+$date
+	Tue Oct  9 23:14:06 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module pc_tb $end
+$var reg 1 ! clk $end
+$var reg 32 " value [31:0] $end
+$scope module trial $end
+$var wire 1 ! clk $end
+$var wire 32 # value [31:0] $end
+$var wire 32 $ plus4 [31:0] $end
+$var reg 32 % next_value [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+b100 $
+b0 #
+b0 "
+0!
+$end
+#5
+b100 %
+1!
+#10
+0!
+#15
+1!
+#20
+0!
+b110 %
+b110 $
+b10 "
+b10 #
+#25
+1!
+#30
+0!
+#35
+1!
+#40
+0!
+b1000 %
+b1000 $
+b100 "
+b100 #
+#45
+1!
+#50
+0!
+#55
+1!
+#60
+0!
+#65
+1!
+#70
+0!
+#75
+1!
+#80
+0!
+#85
+1!
+#90
+0!
+#95
+1!
+#100
+0!
