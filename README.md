@@ -37,7 +37,7 @@ where my bench is the file name of your testbench and my wave.vcd is the wavefor
 Complete the design and simulation of the basic CPU components if you have not done so during the Lab.
 
 Deliverables:
-• Verilog source Files for the CPU components
+• Verilog source Files for the CPU components:
 – Program Counter
 – Instruction Memory
 – Register File
