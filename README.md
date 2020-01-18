@@ -1,4 +1,4 @@
-# Microprocessor-Design-and-Verilog-HDL
+# Microprocessor Design VHDL - Basic CPU Components
 
 You will have to install Icarus Verilog (iverilog) which is an open source compiler for Verilog (.v) files. You may install it on your system through apt-get with the following command :
 
